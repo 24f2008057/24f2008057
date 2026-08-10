@@ -1,7 +1,11 @@
-# 💫 About Me:
-Hey👋, i am Sanjoy Ostad, I am pursuing Bachelors in Science (B.S.) in Data Science and Applications from Indian Institute of Technology, Madras (IIT Madras).
+### 👋 About Me
 
-### 🚧 Currently working on following projects
+I'm Sanjoy Ostad — a Data Science & Applications student at IIT Madras (2024–2028), building full-stack web apps solo and pushing toward machine learning and quant finance.
+
+I like building things that solve a real annoyance I've run into myself —  **[QuizPup](https://github.com/ostadsanjoy/quizpup)**, **[JobSwiper](https://github.com/ostadsanjoy/JobSwiper)**, **[FinanceFusion](https://github.com/ostadsanjoy/FinanceFusion)**, **[allinone-mediadownloader](https://github.com/ostadsanjoy/allinone-mediadownloader)** are few of my recent developments. Along the way I've gotten pretty deep into backend security — finding and fixing real vulnerabilities (IDOR, XSS, path traversal) in my own apps rather than just shipping and hoping.<br>
+📫 ostadsanjoy2005@gmail.com
+
+### 🚧 Currently working on following projects:
 
 **[QuizPup](https://github.com/ostadsanjoy/quizpup)** — Android study app (Flask + Capacitor) for JEE/NEET/CAT and all other exams preparation. Quiz-based testing with ~600+ flashcards organized for exams; OCR-powered "SuperNotes" turn handwritten notes into AI-structured summaries and two-column PDFs via Gemini.<br>
 **Live App:** [quizpup.onrender.com](https://quizpup.onrender.com/)<br>
@@ -21,6 +25,8 @@ Hey👋, i am Sanjoy Ostad, I am pursuing Bachelors in Science (B.S.) in Data Sc
 - **TypeScript** — converting an existing React project over
 - **AWS** — first hands-on deploy beyond Render/Heroku
 - **Docker** — containerizing existing Flask apps
+
+#### 💬 Ask me about Flask, FastAPI, React, or app security
 
 
 ## 🌐 Socials:
