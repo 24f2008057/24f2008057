@@ -39,10 +39,13 @@ I like building things that solve a real annoyance I've run into myself —  **[
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjoyostad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33016927/sanjoy-ostad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_SanjoyOstad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ostadsanjoy2005@gmail.com)
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ostadsanjoy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ostadsanjoy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ostadsanjoy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+-->
 
 
 ## 💻 Tech Stack
