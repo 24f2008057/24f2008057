@@ -29,7 +29,7 @@
 
 <!-- EDIT: stats card (stars, commits, release, last push, last commit message), auto-updated by .github/workflows/update-readme.yml -->
 <!--QUIZPUP_STATS:START-->
-<a href="https://github.com/ostadsanjoy/quizpup/commits"><img src="assets/quizpup-stats.svg?v=c2a3e7c9" width="100%" alt="QuizPup stats"/></a>
+<a href="https://github.com/ostadsanjoy/quizpup/commits"><img src="assets/quizpup-stats.svg?v=63714fd2" width="100%" alt="QuizPup stats"/></a>
 <!--QUIZPUP_STATS:END-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
