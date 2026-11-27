@@ -29,7 +29,7 @@
 
 <!-- EDIT: stats card (stars, commits, release, last push, last commit message), auto-updated by .github/workflows/update-readme.yml -->
 <!--QUIZPUP_STATS:START-->
-<a href="https://github.com/ostadsanjoy/quizpup/commits"><img src="assets/quizpup-stats.svg?v=4f36c7b1" width="100%" alt="QuizPup stats"/></a>
+<a href="https://github.com/ostadsanjoy/quizpup/commits"><img src="assets/quizpup-stats.svg?v=f68eac66" width="100%" alt="QuizPup stats"/></a>
 <!--QUIZPUP_STATS:END-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -131,8 +131,8 @@ All-in-one media downloader tool.
 </div>
 
 <!--ACTIVITY:START-->
-- 🔨 [`24f2008057/quizpup`](https://github.com/24f2008057/quizpup): pushed new commits · _1d ago_
-- 🔨 [`24f2008057/24f2008057`](https://github.com/24f2008057/24f2008057): pushed new commits · _10d ago_
+- 🔨 [`24f2008057/quizpup`](https://github.com/24f2008057/quizpup): pushed new commits · _2d ago_
+- 🔨 [`24f2008057/24f2008057`](https://github.com/24f2008057/24f2008057): pushed new commits · _11d ago_
 <!--ACTIVITY:END-->
 
 <div align="center">
